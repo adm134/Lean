@@ -8,7 +8,6 @@ using System.Windows.Forms;
 using System.IO;
 using System.Security.Cryptography;
 <<<<<<< HEAD
-
 =======
 >>>>>>> 1111
 namespace EncryptFile
