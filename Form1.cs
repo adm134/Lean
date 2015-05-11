@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Security.Cryptography;
 namespace EncryptFile
-{gdfgdfgdfg
+{
     public partial class Form1 : Form
     {
         public Form1()
