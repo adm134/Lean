@@ -6,7 +6,6 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-using System.IO;
 using System.Security.Cryptography;
 
 namespace EncryptFile
