@@ -4,8 +4,8 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Text;
-
-Using nana;
+using System.Windows.Forms;
+using System.IO;
 using System.Security.Cryptography;
 
 namespace EncryptFile
