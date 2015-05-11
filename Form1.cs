@@ -7,6 +7,12 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 using System.Security.Cryptography;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 1111
+>>>>>>> flash
 namespace EncryptFile
 {
     public partial class Form1 : Form
