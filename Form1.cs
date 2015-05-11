@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,7 +26,6 @@ namespace EncryptFile
                 MessageBox.Show("Выбран Файл для Шифровки или расшифровки", "Выбран Файл для Шифровки или расшифровки");
             }
         }
-dfdfdff
         private void btnEncFile_Click(object sender, EventArgs e)
         {
 
