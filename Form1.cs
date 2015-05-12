@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
-using System.IO;
 using System.Security.Cryptography;
 namespace EncryptFile
+<<<<<<< HEAD
+{
+    public partial class Form1 : Form
+    {
+=======
 
+>>>>>>> 1112
         public Form1()
         {
             InitializeComponent();
