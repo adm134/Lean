@@ -5,13 +5,10 @@ using System.Data;
 using System.Drawing;
 using System.Security.Cryptography;
 namespace EncryptFile
-<<<<<<< HEAD
+
 {
     public partial class Form1 : Form
     {
-=======
-
->>>>>>> 1112
         public Form1()
         {
             InitializeComponent();
